@@ -1,5 +1,6 @@
-add                     :: Float -> Float -> Float
-add x y                 =  x + y
+add  :: Float -> Float -> Float
+add x y
+  =  x + y
 
 x = 6
 y = 42.2
